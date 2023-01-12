@@ -8,7 +8,7 @@ Custom RecyclerViewAdapters for expanding and collapsing groups with support for
 ## Download
 ExpandableRecyclerView:
 ```groovy
-implementation 'com.github.deadman96385:expandable-recycler-view:v1.8'
+implementation 'com.github.AliAsadi:expandable-recycler-view:v1.8'
 ```
 
 ## Usage
